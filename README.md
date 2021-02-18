@@ -1,2 +1,2 @@
 # winteriscoming
-Experimental plugin for Minecraft game
+Plugin for Minecraft (experiments, fun)
